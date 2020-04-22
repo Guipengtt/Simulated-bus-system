@@ -1,0 +1,45 @@
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Oak Street at University Avenue, 44.975392, -93.226632, .025
+STOP, Transitway at 23rd Avenue SE, 44.975837, -93.222174, .05
+STOP, Transitway at Commonwealth Avenue, 44.980753, -93.180669, .05
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, .01
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, Buford at Gortner Avenue, 44.984482, -93.181657, .05
+STOP, State Fairgrounds Lot S-108, 44.983703, -93.178846, .01
+STOP, Transitway at Commonwealth Avenue, 44.980663, -93.180808, .01
+STOP, Thompson Center & 23rd Avenue SE, 44.976397, -93.221801, .025
+STOP, Ridder Arena, 44.978058, -93.229176, .05
+STOP, Pleasant Street at Jones-Eddy Circle, 44.978366, -93.236038, .1
+STOP, Bruininks Hall, 44.974549, -93.236927, .3
+STOP, Blegen Hall, 44.972638, -93.243591, 0
+
+ROUTE, North Route
+
+STOP, Coffman, 44.973179, -93.235385, .3
+STOP, Walter library, 44.975411, -93.236190, .4
+STOP, Northrop, 44.976730, -93.235383, .1
+STOP, Marcy_Holmes, 44.980475, -93.234585, .02
+STOP, SE 4th St, 44.977339, -93.227832, .25
+STOP, University Ave SE, 44.975447, -93.226302, .34
+STOP, SE Washington Ave, 44.973571, -93.230222, 0
+
+
+ROUTE, South Route
+
+STOP, SE Washington Ave, 44.973571, -93.230222, .35
+STOP, 498 SE Harvard St, 44.971452, -93.230271, .1
+STOP, E River Pkwy, 44.970441, -93.230563, .33
+STOP, 365-351 E River Pkwy, 44.971720, -93.237246, .04
+STOP, Coffman, 44.973179, -93.235385, 0
